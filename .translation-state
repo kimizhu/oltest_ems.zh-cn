@@ -1,9 +1,9 @@
 {
-  "LastProcessedCommit": "ab40c3674dad44234d1d8965fc1c99ca59d28af5",
-  "LastTranslatedCommit": "a6fd89dd1c44162817e7ec0efe8dd51c8953e8d3",
+  "LastProcessedCommit": "677a4c9837590ffba11585e053494dfc9453ea93",
+  "LastTranslatedCommit": "91d2bc1ea301ca802f6ab98f3deff86b5b6fc286",
   "Items": {
-    "8520163e154feb064c5b873bc8ce382769e64529": {
-      "FileHash": "8520163e154feb064c5b873bc8ce382769e64529",
+    "bb77906876d455556d80557f247eec7b98b9416c": {
+      "FileHash": "bb77906876d455556d80557f247eec7b98b9416c",
       "SourceFileCommit": "d80b903d0434ea666de20af595fe2eb2a41e71f5",
       "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md",
       "HandoffReason": 0,
@@ -23,8 +23,8 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "cc5d707ac84c40cd7e57f0ae9a91f6023b101574": {
-      "FileHash": "cc5d707ac84c40cd7e57f0ae9a91f6023b101574",
+    "8b1cceae286ad189e2ebf538a881dd0f7bd879f2": {
+      "FileHash": "8b1cceae286ad189e2ebf538a881dd0f7bd879f2",
       "SourceFileCommit": "d80b903d0434ea666de20af595fe2eb2a41e71f5",
       "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md",
       "HandoffReason": 0,
@@ -44,8 +44,8 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "f1cde188643ebea6f9493365ea42b9677e69bec0": {
-      "FileHash": "f1cde188643ebea6f9493365ea42b9677e69bec0",
+    "468ce304f8a579a8b0bada78a4da539388459cea": {
+      "FileHash": "468ce304f8a579a8b0bada78a4da539388459cea",
       "SourceFileCommit": "d80b903d0434ea666de20af595fe2eb2a41e71f5",
       "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md",
       "HandoffReason": 0,
@@ -65,8 +65,8 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "e97e425309343c556d537a578cc3dc24eb29f33a": {
-      "FileHash": "e97e425309343c556d537a578cc3dc24eb29f33a",
+    "7e6bbe659b9e96923cb016307b438799707cd8f3": {
+      "FileHash": "7e6bbe659b9e96923cb016307b438799707cd8f3",
       "SourceFileCommit": "d80b903d0434ea666de20af595fe2eb2a41e71f5",
       "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md",
       "HandoffReason": 0,
@@ -86,8 +86,8 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "92ca9cf6ce4c52d4d67debacd5c7cd67938daf13": {
-      "FileHash": "92ca9cf6ce4c52d4d67debacd5c7cd67938daf13",
+    "026f918bf9d7de8ded10eb49e9fe8c0d1bed1856": {
+      "FileHash": "026f918bf9d7de8ded10eb49e9fe8c0d1bed1856",
       "SourceFileCommit": "d80b903d0434ea666de20af595fe2eb2a41e71f5",
       "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md",
       "HandoffReason": 0,
@@ -107,8 +107,8 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "6f5133a5f30ec04c70bf352f6da776f7b279ea0f": {
-      "FileHash": "6f5133a5f30ec04c70bf352f6da776f7b279ea0f",
+    "527a25ecfe6b66908310582e92069c836aec2f28": {
+      "FileHash": "527a25ecfe6b66908310582e92069c836aec2f28",
       "SourceFileCommit": "d80b903d0434ea666de20af595fe2eb2a41e71f5",
       "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md",
       "HandoffReason": 0,
@@ -128,8 +128,8 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "79463a201f06023196cc3063a0e426e7bade4367": {
-      "FileHash": "79463a201f06023196cc3063a0e426e7bade4367",
+    "24d9aa36294d9be12bc1e4111baf11b6a56c8823": {
+      "FileHash": "24d9aa36294d9be12bc1e4111baf11b6a56c8823",
       "SourceFileCommit": "d80b903d0434ea666de20af595fe2eb2a41e71f5",
       "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md",
       "HandoffReason": 0,
