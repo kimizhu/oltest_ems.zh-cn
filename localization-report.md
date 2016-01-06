@@ -41,7 +41,7 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/kimizhu/oltest_ems/blob/26131457440f7b63343b8e3cc85868557d9863f9/.gitignore) | Ignored | [Details](#4c212876832ac87b7a71fe45768881aeeb9453810)
+ [.gitignore](https://github.com/kimizhu/oltest_ems/blob/26131457440f7b63343b8e3cc85868557d9863f9/.gitignore) | Ignored | [Details](#adc3ee4d0cbb5ea8941babb6cfa18101cefa1ddc0)
  [.localization-config](https://github.com/kimizhu/oltest_ems/blob/26131457440f7b63343b8e3cc85868557d9863f9/.localization-config) | Ignored | [Details](#289a0cd572b585207499247cfabafa6385dc31291)
  [.openpublishing.build.ps1](https://github.com/kimizhu/oltest_ems/blob/26131457440f7b63343b8e3cc85868557d9863f9/.openpublishing.build.ps1) | Ignored | [Details](#b31c640ef6511b06504bb6816f4307eb375488312)
  [.openpublishing.publish.config.json](https://github.com/kimizhu/oltest_ems/blob/26131457440f7b63343b8e3cc85868557d9863f9/.openpublishing.publish.config.json) | Ignored | [Details](#f442f4636c53660f0d92b423c88886ae4547af223)
@@ -82,7 +82,7 @@
  [packages.config](https://github.com/kimizhu/oltest_ems/blob/26131457440f7b63343b8e3cc85868557d9863f9/packages.config) | Ignored | [Details](#27554498f63fbe896c2dad68b61f4dde8478ba3153)
 
 ## Item Details
-##### <a name='4c212876832ac87b7a71fe45768881aeeb9453810'></a> Source: [.gitignore](https://github.com/kimizhu/oltest_ems/blob/26131457440f7b63343b8e3cc85868557d9863f9/.gitignore)
+##### <a name='adc3ee4d0cbb5ea8941babb6cfa18101cefa1ddc0'></a> Source: [.gitignore](https://github.com/kimizhu/oltest_ems/blob/26131457440f7b63343b8e3cc85868557d9863f9/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
