@@ -3,28 +3,35 @@ description: na
 keywords: na
 pagetitle: FastTrack Center Benefit for Azure Active Directory Premium
 search: na
-ms.date: na
+ms.date: 2015-10-27
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cf7f7550-2632-4bc2-aac4-04e988b1c4db
 ---
-# Azure Active Directory Premium 的 FastTrack 中心权益
-在符合条件的计划中，如果购买的 Microsoft AADP 许可证达到 150 个，就可以使用 FastTrack 中心权益。 FastTrack 中心权益使你可以与 Microsoft 专家共同进行评估、修正并启用符合条件的服务。 本文提供了有关 FastTrack 中心权益的计划和服务资格的详细信息。
+# FastTrack Center Benefit for Azure Active Directory Premium
 
-若要了解载入流程以及角色和职责，请参阅 [Azure Active Directory Premium 的 FastTrack 中心权益流程 ](../Topic/FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md)。
+You can use the FastTrack Center Benefit when you purchase at least 150 licenses for Microsoft AADP in an eligible plan. The FastTrack Center Benefit lets you work with Microsoft specialists to assess, remediate, and enable eligible services. This article provides details about plan and service eligibility for the FastTrack Center Benefit.
 
-## 符合条件的服务
-如果通过符合条件的计划购买以下任何 Microsoft Online Services，Microsoft 将帮助您对它们进行载入。
+To learn about the Onboarding process as well as roles and responsibilities, see [FastTrack Center Benefit Process for Azure Active Directory Premium ](../Topic/FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md).
 
-FastTrack 团队将在你购买符合条件的计划后 30 天内与你联系。 如果你已准备好在你的组织中部署这些服务，你还可以通过 [FastTrack 中心](http://fasttrack.microsoft.com/)请求协助。 若要请求协助，请登录到 FastTrack 中心 (http://fasttrack.microsoft.com)，转到面板，选择公司名称，单击“产品/服务”选项卡，然后单击符合条件的服务的“请求协助”按钮。
+## Eligible services
 
-在首次联系之后，客户可以在 12 个月内针对每个符合条件的 Microsoft Online Service 选择性加入 FastTrack 中心权益一次。
+If you purchase any of the following Microsoft online services through an eligible plan, Microsoft will help you onboard to them.
 
-### 符合条件的计划
-如果你在以下任一符合条件的计划中针对新的 Microsoft Azure AD Premium 订阅购买至少 150 个许可证，则 Microsoft Azure AD Premium 符合 FastTrack 中心权益的条件：
+Microsoft will attempt to contact you within 30 days from the date you purchase an eligible plan. You can also request assistance from the [FastTrack Center](http://fasttrack.microsoft.com/) if you are ready to deploy these services for your organization. To request assistance, sign in to the FastTrack Center (http://fasttrack.microsoft.com), go to the dashboard, select your company name, click the Offers tab, and click the request assistance button for the eligible service.
 
-|计划|是否符合 FastTrack 中心权益的条件？|
-|------|---------------------------|
-|Microsoft Azure AD Premium|是|
-|Microsoft Azure AD Premium （作为企业移动性套件的一部分）|是|
-|Microsoft Azure AD Premium （作为企业云套件的一部分）|是|
+Customers can opt-in to the FastTrack Center Benefit once per each eligible Microsoft online service within the 12-month period after initial contact.
+
+### Eligible plans
+
+Microsoft Azure AD Premium is eligible for the FastTrack Center Benefit if you purchase at least 150 licenses for a new Microsoft Azure AD Premium subscription in one of the following eligible plans:
+
+| Plan| Eligible for the FastTrack Center Benefit?|
+|--------|----------------------------------------------|
+| Microsoft Azure AD Premium| Yes|
+| Microsoft Azure AD Premium (as part of the Enterprise Mobility Suite)| Yes|
+| Microsoft Azure AD Premium (as part of the Enterprise Cloud Suite)| Yes|
+
+
+
+
